@@ -1,0 +1,6 @@
+Desired output:
+
+Heatmap of Quebec by municipality:
+    Red = extremely high demand (including counting for what’s under construction)
+    Green = don’t build here at all
+    
