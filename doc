@@ -6,6 +6,10 @@ Heatmap of Quebec by municipality:
     
 
 How to get there:
-    To get a color hue spectrum, one would need a score spectrum too.
+    To get a color hue spectrum, one would need a score spectrum too. As well as a geographical locator.
+    
+    To get a score spectrum, we need a score. To get a geographical locator, we need one offered by data on incomes ideally.
+    
+    To get a score, we need to elaborate one. To get a data on income, we need to scrape it.
     
 (F a growth m)
