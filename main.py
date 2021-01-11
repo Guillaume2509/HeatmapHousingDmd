@@ -5,12 +5,11 @@ import seaborn as sns
 sns.set(style="darkgrid")
 
 
-def Import_data(x, y):
+def Import_data(path):
     '''Importe la donnée.
     
     Keyword arguments:
-    x -- le jeu de données
-    y -- les configurations souhaitées
+    path - path du jeu de données
     '''
     
     pd.read_csv('data.csv')
