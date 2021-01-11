@@ -30,7 +30,7 @@ def Convert_to_heatmap():
     
     Commencer par Toronto pour le tutoriel'''
     
-    shape files
+    scoresNNeighborhood
     
 
 if __name__ == "__main__":
