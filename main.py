@@ -12,7 +12,7 @@ def Import_data(path):
     path - path du jeu de données
     '''
     
-    pd.read_csv('data.csv')
+    pd.read_csv(path)
    
    
 def CleanFilter_data():
@@ -35,7 +35,7 @@ def Convert_to_heatmap():
 
 if __name__ == "__main__":
 
-    Import_data()
+    Import_data('data.csv')
     
     CleanFilter_data()
     
