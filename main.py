@@ -1,3 +1,5 @@
+TODO: Commencer par importer le jeu de Toronto
+
 import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
