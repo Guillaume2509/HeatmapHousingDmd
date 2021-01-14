@@ -7,6 +7,9 @@ import seaborn as sns
 sns.set(style="darkgrid")
 
 
+path = r'geoblocks/'
+
+
 def Import_data(path):
     '''Importe la donnée.
     
